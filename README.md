@@ -5,4 +5,5 @@
 [+] This Tools Coded By TranS
 [+] Credit -
 
+NOTE : Methode Nya Diisi Contoh Untuk Samp → SAMP
 
